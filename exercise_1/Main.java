@@ -1,12 +1,9 @@
-package heranca_sobreposicao.exercise.application;
+package heranca_sobreposicao.exercise.exercise_1;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
-
-import heranca_sobreposicao.exercise.entities.Employee;
-import heranca_sobreposicao.exercise.entities.OutsourceEmployee;
 
 public class Main 
 {

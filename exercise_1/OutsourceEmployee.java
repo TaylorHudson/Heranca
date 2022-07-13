@@ -1,4 +1,4 @@
-package heranca_sobreposicao.exercise.entities;
+package heranca_sobreposicao.exercise.exercise_1;
 
 public final class OutsourceEmployee extends Employee {
 
